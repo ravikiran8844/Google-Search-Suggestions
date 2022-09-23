@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Google-Search-Suggestions/static/css/main.1c2b9221.chunk.css",
+    "main.js": "/Google-Search-Suggestions/static/js/main.876730b3.chunk.js",
+    "main.js.map": "/Google-Search-Suggestions/static/js/main.876730b3.chunk.js.map",
+    "runtime-main.js": "/Google-Search-Suggestions/static/js/runtime-main.75e16a78.js",
+    "runtime-main.js.map": "/Google-Search-Suggestions/static/js/runtime-main.75e16a78.js.map",
+    "static/js/2.4042e731.chunk.js": "/Google-Search-Suggestions/static/js/2.4042e731.chunk.js",
+    "static/js/2.4042e731.chunk.js.map": "/Google-Search-Suggestions/static/js/2.4042e731.chunk.js.map",
+    "index.html": "/Google-Search-Suggestions/index.html",
+    "static/css/main.1c2b9221.chunk.css.map": "/Google-Search-Suggestions/static/css/main.1c2b9221.chunk.css.map",
+    "static/js/2.4042e731.chunk.js.LICENSE.txt": "/Google-Search-Suggestions/static/js/2.4042e731.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75e16a78.js",
+    "static/js/2.4042e731.chunk.js",
+    "static/css/main.1c2b9221.chunk.css",
+    "static/js/main.876730b3.chunk.js"
+  ]
+}
