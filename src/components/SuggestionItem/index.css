@@ -1,0 +1,15 @@
+li {
+  list-style: none;
+  font-size: 20px;
+  color: #64748b;
+}
+
+.listItem {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+}
+
+img {
+  width: 30px;
+}
